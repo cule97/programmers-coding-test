@@ -10,7 +10,7 @@ function solution(n) {
           break
       }
   }
-  return result
+  return   result
 }
 // 팩토리얼을 구하는 함수
 function getFacto(num) {
